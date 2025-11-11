@@ -5,9 +5,9 @@ Kompetenstest inom Jira. Du får använda antingen en jira test-licens från [At
 ---
 
 ## 🎯 Uppgift
-- Bygg ett Jira projekt som uppfyller kraven nedan.
-- Välj antingen att använda en Jira-licens eller visualisera din konfiguration.
-- Bjud in jadebroker5@gmail.com till Jira-instansen, eventuellt skicka konfigurationsvisualiseringen till samma konto.
+1. Bygg ett Jira projekt som uppfyller kraven nedan.
+2. Välj antingen att använda en Jira-licens eller visualisera din konfiguration.
+3. Bjud in jadebroker5@gmail.com till Jira-instansen, eventuellt skicka konfigurationsvisualiseringen till samma konto.
 
 ---
 
