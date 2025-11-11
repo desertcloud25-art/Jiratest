@@ -23,4 +23,4 @@ Kompetenstest inom Jira, Confluence och Jira Service Management. Du får använd
 1. Skapa en Confluence site med ett space
 2. I spacet ska det finnas två delar:
 - En publik del för generell information om Jira-instansen.
-- En intern del där du beskriver hur Jira-instansen är uppsatt.
+- En intern del där du beskriver hur Jira-instansen är uppsatt mer ingående för tekniker.
