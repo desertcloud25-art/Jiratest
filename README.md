@@ -10,11 +10,11 @@ Kompetenstest inom Jira, Confluence och Jira Service Management. Du ska använda
 3. Bjud in jadebroker5@gmail.com till Jira-instansen.
 
 ## 🛠 Jira - Krav
-- Attestflöde, det ska finnas minst en process där användare utanför projektet ska godkänna issues innan det kan gå vidare i sitt arbetsflöde.
-- Olika arbetsflöden, i samma projekt ska det finnas möjlighet till att jobba med fler arbetsflöden än ett.
-- Fler boards, de ska finnas minst två boards som visualiserar de olika arbetsflödena.
-- Möjlighet till statistik, det ska gå att få ut data på hur många issues som hanteras inom en viss tid samt hur många issues som är avklarade. Det ska också gå att få ut data på hur många issues som behövt godkännas.
-- Insyn, en viss grupp av användare ska bara ha åtkomst att se issues i projektet.
+- **Attestflöde**, det ska finnas minst en process där användare utanför projektet ska godkänna issues innan det kan gå vidare i sitt arbetsflöde.
+- **Olika arbetsflöden**, i samma projekt ska det finnas möjlighet till att jobba med fler arbetsflöden än ett.
+- **Fler boards**, de ska finnas minst två boards som visualiserar de olika arbetsflödena.
+- **Möjlighet till statistik**, det ska gå att få ut data på hur många issues som hanteras inom en viss tid samt hur många issues som är avklarade. Det ska också gå att få ut data på hur många issues som behövt godkännas.
+- **Insyn**, en viss grupp av användare ska bara ha åtkomst att se issues i projektet.
 
 ---
 
