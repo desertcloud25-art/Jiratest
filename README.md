@@ -1,6 +1,6 @@
 # Atlassian test
 
-Kompetenstest inom Jira, Confluence och Jira Service Management. Du ska använda en jira test-licens från [Atlassian](https://www.atlassian.com/try/cloud/signup?bundle=jira-software&edition=free)
+Kompetenstest inom Jira och Confluence. Du ska använda en jira test-licens från [Atlassian](https://www.atlassian.com/try/cloud/signup?bundle=jira-software&edition=free)
 
 ---
 
@@ -21,5 +21,5 @@ Kompetenstest inom Jira, Confluence och Jira Service Management. Du ska använda
 ## 🎯 Uppgift - Confluence
 1. Skapa en Confluence site med ett space
 2. I spacet ska det finnas två delar:
-- En publik del för generell information om Jira-instansen.
-- En intern del där du beskriver hur Jira-instansen är uppsatt mer ingående för tekniker.
+- En publik del för generell information om Jira-instansen som är öppen för alla.
+- En intern del där du beskriver hur Jira-instansen är uppsatt mer ingående för tekniker som är nedlåst till digsjälv och jadebroker5@gmail.com.
